@@ -1,0 +1,64 @@
+.body{
+  width: 23em;
+  height: 24em;
+  padding: 10px;
+  margin: auto;
+}
+
+.top{
+  height: 20%;
+  background-color: #cc324b;
+  text-align: center;
+}
+
+.top_text{
+  font-size: 1.5em;
+  padding: 10%;
+  color: white;
+}
+
+.middle{
+  height: 60%;
+  display: block;
+  background-color: #394264;
+  align-content: center;
+}
+
+.middle_input{
+  width: 20em;
+  height: 3em;
+  border: 0;
+  margin-top: 2em;
+  background-color: #50597b;
+  font-weight: bold;
+  text-align: center;
+  clear: both;
+}
+
+.middle_button{
+  height: 3.4em;
+  width: 20em;
+  margin-top: 2em;
+  padding: 0;
+  background-color: #1f253d;
+  border: 0;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  clear: both;
+}
+
+.middle_guess_number{
+  font-size: 2em;
+  clear: both;
+}
+
+.zero{
+  font-size: 1.5em;
+  color: #f39c12;
+}
+
+.bottom{
+  height: 20%;
+  background-color: #11a8ab;
+}
